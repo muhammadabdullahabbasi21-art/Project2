@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_red">#C62828</color>
+    <color name="screen_background">#FFFFFF</color>
+    <color name="card_background">#FFF5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#666666</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>

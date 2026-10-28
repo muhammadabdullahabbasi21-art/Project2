@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LifeSaver</string>
+
+    <string name="welcome_title">LifeSaver</string>
+    <string name="welcome_subtitle">Donate Blood, Save Lives</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Login to your LifeSaver account</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Create New Account</string>
+</resources>
